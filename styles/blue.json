@@ -1,0 +1,10 @@
+{
+	"title": "Bihani Rose",
+	"styles": {
+		"color": {
+			"background": "#f5e6ec"
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.1/theme.json"
+}
